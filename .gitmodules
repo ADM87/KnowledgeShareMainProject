@@ -1,0 +1,3 @@
+[submodule "KnowledgeShareCommon"]
+	path = KnowledgeShareCommon
+	url = https://github.com/ADM87/KnowledgeShareCommon.git
